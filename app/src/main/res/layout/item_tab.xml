@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainlayout_tab"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:layout_marginRight="4dp"
+    android:orientation="vertical"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <vn.com.newsviet.view.FontTextView
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/titletab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="fdsf"
+            android:textColor="@color/black" />
+
+        <View
+            android:id="@+id/indicator"
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"
+            android:background="@color/colorAccent" />
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

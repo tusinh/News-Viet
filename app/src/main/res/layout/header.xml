@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp">
+
+
+    <ImageView
+        android:id="@+id/imgback"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:padding="10dp"
+        android:src="@mipmap/ic_back"
+        android:tint="@color/xam" />
+
+    <ImageView
+        android:id="@+id/imglogo"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="20dp"
+        android:tint="@color/white"
+        android:visibility="visible" />
+
+    <vn.com.newsviet.view.FontTextView
+        android:id="@+id/titleheader"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:gravity="left|center_vertical"
+        android:text="fdfsdff"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:padding="10dp"
+        android:src="@mipmap/icon_share"
+        android:tint="@color/xam"
+        android:visibility="gone" />
+
+</LinearLayout>

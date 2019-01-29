@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DFB1B5</color>
+    <color name="colorPrimaryDark">#86040F</color>
+    <color name="colorAccent">#b2010d</color>
+
+    <color name="header">#0662b9</color>
+    <color name="back_ground_icon_app">#b2010d</color>
+    <color name="red">#f20815</color>
+    <color name="red1">#6e0006</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="description">#484343</color>
+    <color name="xam">#787878</color>
+    <color name="xam1">#bababa</color>
+    <color name="xam2">#dcdbdb</color>
+    <color name="colorindicator">#873993</color>
+    <color name="colorindicator_select">#007c89</color>
+    <color name="bg_null">#00000000</color>
+    <color name="bg_transperent_15">#26000000</color>
+    <color name="bg_transperent_16">#39a1c1</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Việt</string>
+    <string name="titlesplash">Tin tức cập nhật chính xác từng mini giây.</string>
+    <string name="required">Bạn chưa nhập trường này</string>
+    <string name="title_notify">Thông báo</string>
+    <string name="double_tap_to_exits">Back lần nữa để thoát</string>
+    <string name="no_internet">Vui lòng kiểm tra lại kết nối internet!</string>
+
+</resources>
